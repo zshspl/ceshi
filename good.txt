@@ -9,5 +9,5 @@ zsmaster
 
 zshot modify
 
-zshs2 modify
+zshs2 modify gai2
 
