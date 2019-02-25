@@ -9,3 +9,5 @@ zsmaster
 
 zshot modify
 
+zshs2 modify
+
